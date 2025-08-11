@@ -1,0 +1,1 @@
+/Volumes/SSDLin/work/awesome-copilot/instructions/rust.instructions.md

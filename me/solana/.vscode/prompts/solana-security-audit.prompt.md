@@ -1,0 +1,1 @@
+/Volumes/SSDLin/work/awesome-copilot/prompts/solana-security-audit.prompt.md

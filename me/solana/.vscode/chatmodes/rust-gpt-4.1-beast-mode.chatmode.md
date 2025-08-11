@@ -1,0 +1,1 @@
+/Volumes/SSDLin/work/awesome-copilot/chatmodes/rust-gpt-4.1-beast-mode.chatmode.md

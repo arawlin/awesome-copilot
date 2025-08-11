@@ -1,0 +1,1 @@
+/Volumes/SSDLin/work/awesome-copilot/instructions/solana-rust.instructions.md
