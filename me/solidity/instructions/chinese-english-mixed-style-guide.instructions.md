@@ -1,0 +1,1 @@
+/Volumes/SSDLin/work/awesome-copilot/instructions/chinese-english-mixed-style-guide.instructions.md
