@@ -1,0 +1,1 @@
+/Volumes/SSDLin/work/awesome-copilot/chatmodes/principal-software-engineer.chatmode.md

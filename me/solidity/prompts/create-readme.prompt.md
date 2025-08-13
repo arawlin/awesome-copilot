@@ -1,0 +1,1 @@
+/Volumes/SSDLin/work/awesome-copilot/prompts/create-readme.prompt.md
