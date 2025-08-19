@@ -1,0 +1,1 @@
+[wg-code-alchemist.chatmode.md](../../../chatmodes/wg-code-alchemist.chatmode.md)

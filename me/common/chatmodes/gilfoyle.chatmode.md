@@ -1,0 +1,1 @@
+[gilfoyle.chatmode.md](../../../chatmodes/gilfoyle.chatmode.md)

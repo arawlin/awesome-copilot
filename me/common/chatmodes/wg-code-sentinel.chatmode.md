@@ -1,0 +1,1 @@
+[wg-code-sentinel.chatmode.md](../../../chatmodes/wg-code-sentinel.chatmode.md)

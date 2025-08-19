@@ -1,0 +1,1 @@
+[blueprint-mode.chatmode.md](../../../chatmodes/blueprint-mode.chatmode.md)

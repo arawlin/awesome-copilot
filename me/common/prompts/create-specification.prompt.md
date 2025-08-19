@@ -1,0 +1,1 @@
+[create-specification.prompt.md](../../../prompts/create-specification.prompt.md)

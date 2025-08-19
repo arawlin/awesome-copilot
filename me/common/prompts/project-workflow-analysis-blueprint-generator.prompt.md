@@ -1,0 +1,1 @@
+[project-workflow-analysis-blueprint-generator.prompt.md](../../../prompts/project-workflow-analysis-blueprint-generator.prompt.md)

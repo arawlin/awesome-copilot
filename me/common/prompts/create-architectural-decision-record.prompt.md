@@ -1,0 +1,1 @@
+[create-architectural-decision-record.prompt.md](../../../prompts/create-architectural-decision-record.prompt.md)

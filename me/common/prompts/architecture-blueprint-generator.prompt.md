@@ -1,0 +1,1 @@
+[architecture-blueprint-generator.prompt.md](../../../prompts/architecture-blueprint-generator.prompt.md)

@@ -1,0 +1,1 @@
+[folder-structure-blueprint-generator.prompt.md](../../../prompts/folder-structure-blueprint-generator.prompt.md)

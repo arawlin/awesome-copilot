@@ -1,0 +1,1 @@
+[api-architect.chatmode.md](../../../chatmodes/api-architect.chatmode.md)
