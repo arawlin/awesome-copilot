@@ -1,1 +1,1 @@
-[wg-code-sentinel.chatmode.md](../../../chatmodes/wg-code-sentinel.chatmode.md)
+/Volumes/SSDLin/work/awesome-copilot/chatmodes/wg-code-sentinel.chatmode.md

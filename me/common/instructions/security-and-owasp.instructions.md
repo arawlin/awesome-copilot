@@ -1,1 +1,1 @@
-[security-and-owasp.instructions.md](../../../instructions/security-and-owasp.instructions.md)
+/Volumes/SSDLin/work/awesome-copilot/instructions/security-and-owasp.instructions.md

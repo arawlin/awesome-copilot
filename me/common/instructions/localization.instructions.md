@@ -1,1 +1,1 @@
-[localization.instructions.md](../../../instructions/localization.instructions.md)
+/Volumes/SSDLin/work/awesome-copilot/instructions/localization.instructions.md

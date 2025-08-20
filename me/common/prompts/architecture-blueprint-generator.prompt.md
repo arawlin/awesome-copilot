@@ -1,1 +1,1 @@
-[architecture-blueprint-generator.prompt.md](../../../prompts/architecture-blueprint-generator.prompt.md)
+/Volumes/SSDLin/work/awesome-copilot/prompts/architecture-blueprint-generator.prompt.md

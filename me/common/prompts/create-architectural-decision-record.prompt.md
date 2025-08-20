@@ -1,1 +1,1 @@
-[create-architectural-decision-record.prompt.md](../../../prompts/create-architectural-decision-record.prompt.md)
+/Volumes/SSDLin/work/awesome-copilot/prompts/create-architectural-decision-record.prompt.md

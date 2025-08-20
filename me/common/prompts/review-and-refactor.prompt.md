@@ -1,1 +1,1 @@
-[review-and-refactor.prompt.md](../../../prompts/review-and-refactor.prompt.md)
+/Volumes/SSDLin/work/awesome-copilot/prompts/review-and-refactor.prompt.md

@@ -1,1 +1,1 @@
-[containerization-docker-best-practices.instructions.md](../../../instructions/containerization-docker-best-practices.instructions.md)
+/Volumes/SSDLin/work/awesome-copilot/instructions/containerization-docker-best-practices.instructions.md

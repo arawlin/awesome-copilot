@@ -1,1 +1,1 @@
-[spec-driven-workflow-v1.instructions.md](../../../instructions/spec-driven-workflow-v1.instructions.md)
+/Volumes/SSDLin/work/awesome-copilot/instructions/spec-driven-workflow-v1.instructions.md

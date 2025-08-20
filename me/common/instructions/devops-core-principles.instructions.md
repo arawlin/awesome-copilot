@@ -1,1 +1,1 @@
-[devops-core-principles.instructions.md](../../../instructions/devops-core-principles.instructions.md)
+/Volumes/SSDLin/work/awesome-copilot/instructions/devops-core-principles.instructions.md

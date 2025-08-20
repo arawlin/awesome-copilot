@@ -1,1 +1,1 @@
-[object-calisthenics.instructions.md](../../../instructions/object-calisthenics.instructions.md)
+/Volumes/SSDLin/work/awesome-copilot/instructions/object-calisthenics.instructions.md

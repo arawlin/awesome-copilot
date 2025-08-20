@@ -1,1 +1,1 @@
-[language-guidelines.instructions.md](../../../instructions/language-guidelines.instructions.md)
+/Volumes/SSDLin/work/awesome-copilot/instructions/language-guidelines.instructions.md

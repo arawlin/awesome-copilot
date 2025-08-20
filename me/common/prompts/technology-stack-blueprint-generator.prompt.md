@@ -1,1 +1,1 @@
-[technology-stack-blueprint-generator.prompt.md](../../../prompts/technology-stack-blueprint-generator.prompt.md)
+/Volumes/SSDLin/work/awesome-copilot/prompts/technology-stack-blueprint-generator.prompt.md

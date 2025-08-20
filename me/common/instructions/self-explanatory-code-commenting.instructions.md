@@ -1,1 +1,1 @@
-[self-explanatory-code-commenting.instructions.md](../../../instructions/self-explanatory-code-commenting.instructions.md)
+/Volumes/SSDLin/work/awesome-copilot/instructions/self-explanatory-code-commenting.instructions.md

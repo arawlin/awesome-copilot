@@ -1,1 +1,1 @@
-[create-specification.prompt.md](../../../prompts/create-specification.prompt.md)
+/Volumes/SSDLin/work/awesome-copilot/prompts/create-specification.prompt.md

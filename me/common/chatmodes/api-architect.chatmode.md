@@ -1,1 +1,1 @@
-[api-architect.chatmode.md](../../../chatmodes/api-architect.chatmode.md)
+/Volumes/SSDLin/work/awesome-copilot/chatmodes/api-architect.chatmode.md

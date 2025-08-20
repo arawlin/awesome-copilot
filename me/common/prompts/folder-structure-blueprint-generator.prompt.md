@@ -1,1 +1,1 @@
-[folder-structure-blueprint-generator.prompt.md](../../../prompts/folder-structure-blueprint-generator.prompt.md)
+/Volumes/SSDLin/work/awesome-copilot/prompts/folder-structure-blueprint-generator.prompt.md

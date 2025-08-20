@@ -1,1 +1,1 @@
-[project-workflow-analysis-blueprint-generator.prompt.md](../../../prompts/project-workflow-analysis-blueprint-generator.prompt.md)
+/Volumes/SSDLin/work/awesome-copilot/prompts/project-workflow-analysis-blueprint-generator.prompt.md

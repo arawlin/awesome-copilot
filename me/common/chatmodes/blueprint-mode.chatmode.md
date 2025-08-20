@@ -1,1 +1,1 @@
-[blueprint-mode.chatmode.md](../../../chatmodes/blueprint-mode.chatmode.md)
+/Volumes/SSDLin/work/awesome-copilot/chatmodes/blueprint-mode.chatmode.md

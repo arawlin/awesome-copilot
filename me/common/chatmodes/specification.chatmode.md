@@ -1,1 +1,1 @@
-[specification.chatmode.md](../../../chatmodes/specification.chatmode.md)
+/Volumes/SSDLin/work/awesome-copilot/chatmodes/specification.chatmode.md

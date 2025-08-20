@@ -1,1 +1,1 @@
-[ai-prompt-engineering-safety-review.prompt.md](../../../prompts/ai-prompt-engineering-safety-review.prompt.md)
+/Volumes/SSDLin/work/awesome-copilot/prompts/ai-prompt-engineering-safety-review.prompt.md

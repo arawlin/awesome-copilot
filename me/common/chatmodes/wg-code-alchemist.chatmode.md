@@ -1,1 +1,1 @@
-[wg-code-alchemist.chatmode.md](../../../chatmodes/wg-code-alchemist.chatmode.md)
+/Volumes/SSDLin/work/awesome-copilot/chatmodes/wg-code-alchemist.chatmode.md

@@ -1,1 +1,1 @@
-[conventional-commit.prompt.md](../../../instructions/conventional-commit.prompt.md)
+/Volumes/SSDLin/work/awesome-copilot/instructions/conventional-commit.prompt.md
