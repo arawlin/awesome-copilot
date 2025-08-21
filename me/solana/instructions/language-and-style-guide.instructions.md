@@ -1,0 +1,1 @@
+/Volumes/SSDLin/work/awesome-copilot/instructions/language-and-style-guide.instructions.md
