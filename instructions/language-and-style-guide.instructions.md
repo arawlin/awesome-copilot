@@ -37,7 +37,11 @@ Localization into other languages should only be performed when explicitly reque
 
 This section provides guidance on how to clearly and normatively use English terms when Chinese is the primary language of communication, ensuring that the content is easy to understand and professional.
 
-### 2.1. English Words and Phonetic Transcription
+### 2.1. Communication Language: Chinese
+
+All interactions and communications with the AI assistant **MUST** be in **Chinese**. The AI should provide responses and explanations in Chinese.
+
+### 2.2. English Words and Phonetic Transcription
 
 When an English word is used in a Chinese explanation, its International Phonetic Alphabet (IPA) transcription should follow.
 
@@ -47,7 +51,7 @@ When an English word is used in a Chinese explanation, its International Phoneti
 - 这个解决方案在行业中是 **ubiquitous** /juːˈbɪkwɪtəs/ 的。
 - 请检查 **cache** /kæʃ/。
 
-### 2.2. English Abbreviations
+### 2.3. English Abbreviations
 
 When an English abbreviation appears for the first time in a Chinese explanation, its full name must be provided, along with a concise Chinese explanation.
 
@@ -57,7 +61,7 @@ When an English abbreviation appears for the first time in a Chinese explanation
 - 我们将使用 **API** (Application Programming Interface, 应用程序编程接口)，它是一套用于构建软件和应用程序的规则和工具。
 - 该系统依赖 **OAuth** (Open Authorization, 开放授权)，这是一种开放的访问授权标准。
 
-### 2.3. Technical Terms and Jargon
+### 2.4. Technical Terms and Jargon
 
 When English technical terms or jargon must be used, a concise and easy-to-understand Chinese explanation should be provided.
 
@@ -66,7 +70,7 @@ When English technical terms or jargon must be used, a concise and easy-to-under
 **Example:**
 - 我们需要在API中实现 **idempotency** /ˌaɪdəmˈpoʊtənsi/（幂等性）。这意味着多次发出相同的请求应与单次请求产生相同的结果，以防止重复操作。
 
-### 2.4. English Idioms
+### 2.5. English Idioms
 
 If an English idiom is used, a Chinese explanation of its literal or figurative meaning in the current context should be provided.
 
@@ -75,6 +79,6 @@ If an English idiom is used, a Chinese explanation of its literal or figurative 
 **Example:**
 - 我们必须 **bite the bullet** /baɪt ðə ˈbʊlɪt/（硬着头皮上），开始重构旧代码。这意味着我们必须决定去做一件我们一直在拖延的困难事情。
 
-### 2.5. Overarching Principle: Clarity First
+### 2.6. Overarching Principle: Clarity First
 
 In all communication, the clarity and conciseness of the Chinese expression should be prioritized. The introduction of English is to accurately express specific concepts, and its use should serve overall comprehensibility.
