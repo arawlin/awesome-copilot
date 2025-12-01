@@ -1,0 +1,41 @@
+id: node-aws-crypto-backend
+name: Node.js AWS Crypto Backend
+description: Curated Copilot agents, prompts, and instructions for building a secure, performant Node.js backend on AWS with Docker, Redis, and MongoDB. Includes infrastructure automation, security reviews, performance tuning, and TypeScript MCP expertise.
+tags: [nodejs, aws, docker, redis, mongodb, security, observability, terraform]
+items:
+  - path: instructions/security-and-owasp.instructions.md
+    kind: instruction
+  - path: instructions/nodejs-javascript-vitest.instructions.md
+    kind: instruction
+  - path: instructions/nestjs.instructions.md
+    kind: instruction
+  - path: instructions/performance-optimization.instructions.md
+    kind: instruction
+  - path: instructions/terraform.instructions.md
+    kind: instruction
+
+  - path: prompts/multi-stage-dockerfile.prompt.md
+    kind: prompt
+  - path: prompts/architecture-blueprint-generator.prompt.md
+    kind: prompt
+  - path: prompts/typescript-mcp-server-generator.prompt.md
+    kind: prompt
+
+  - path: agents/mongodb-performance-advisor.agent.md
+    kind: agent
+  - path: agents/terraform.agent.md
+    kind: agent
+  - path: agents/stackhawk-security-onboarding.agent.md
+    kind: agent
+  - path: agents/typescript-mcp-expert.agent.md
+    kind: agent
+  - path: agents/adr-generator.agent.md
+    kind: agent
+  - path: agents/implementation-plan.agent.md
+    kind: agent
+  - path: agents/context7.agent.md
+    kind: agent
+
+display:
+  ordering: manual
+  show_badge: true

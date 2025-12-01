@@ -1,0 +1,50 @@
+id: aws-node-app-dev
+name: AWS Node App Dev Workflows
+description: Curated Copilot agents, prompts, and instructions to accelerate AWS-based Node.js backend development with Docker, Redis, and MongoDB. Focuses on secure coding, performance, CI/CD, containerization, and practical planning workflows.
+tags: [nodejs, aws, docker, redis, mongodb, security, ci-cd, planning]
+items:
+  # Instructions
+  - path: instructions/security-and-owasp.instructions.md
+    kind: instruction
+  - path: instructions/nodejs-javascript-vitest.instructions.md
+    kind: instruction
+  - path: instructions/nestjs.instructions.md
+    kind: instruction
+  - path: instructions/performance-optimization.instructions.md
+    kind: instruction
+  - path: instructions/containerization-docker-best-practices.instructions.md
+    kind: instruction
+  - path: instructions/github-actions-ci-cd-best-practices.instructions.md
+    kind: instruction
+
+  # Prompts
+  - path: prompts/multi-stage-dockerfile.prompt.md
+    kind: prompt
+  - path: prompts/architecture-blueprint-generator.prompt.md
+    kind: prompt
+  - path: prompts/create-implementation-plan.prompt.md
+    kind: prompt
+  - path: prompts/create-github-action-workflow-specification.prompt.md
+    kind: prompt
+  - path: prompts/create-github-issues-feature-from-implementation-plan.prompt.md
+    kind: prompt
+  - path: prompts/readme-blueprint-generator.prompt.md
+    kind: prompt
+  - path: prompts/folder-structure-blueprint-generator.prompt.md
+    kind: prompt
+
+  # Agents (Chat Modes)
+  - path: agents/implementation-plan.agent.md
+    kind: agent
+  - path: agents/adr-generator.agent.md
+    kind: agent
+  - path: agents/stackhawk-security-onboarding.agent.md
+    kind: agent
+  - path: agents/mongodb-performance-advisor.agent.md
+    kind: agent
+  - path: agents/context7.agent.md
+    kind: agent
+
+display:
+  ordering: manual
+  show_badge: true
