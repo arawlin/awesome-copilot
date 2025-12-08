@@ -12,8 +12,11 @@ This instruction enforces three policies across conversations, code generation, 
 - When the user converses in Chinese, respond in Chinese.
 - In the response text (chat replies only, not files):
   - For any English abbreviations (e.g., "CPU"), immediately add the English full name in parentheses, e.g., `CPU (Central Processing Unit)`.
-  - For any English words, the IPA transcription MUST appear **immediately to the right** of the word, with no other text in between. Format: `word /IPA/`. Examples:
-    - ✅ Correct: `reverse /rɪˈvɜːrs/ 工程` or `redundancy /rɪˈdʌndənsi/`
+  - For technical terms that have both Chinese and English names, always show the **English term first**, followed by IPA, then optionally the Chinese translation in parentheses. Format: `English /IPA/` or `English /IPA/ (中文)`.
+  - For any English words, the IPA transcription MUST appear **immediately to the right** of the word, with no other text in between. Examples:
+    - ✅ Correct: `circuit breaker /ˈsɜːrkɪt ˈbreɪkər/ (断路器)` or `reverse /rɪˈvɜːrs/ engineering`
+    - ✅ Correct: `实现断路器 circuit breaker /ˈsɜːrkɪt ˈbreɪkər/ 模式`
+    - ❌ Wrong: `断路器 /ˈsɜːrkɪt ˈbreɪkər/` (missing English term)
     - ❌ Wrong: placing IPA at end of sentence, or separating word and IPA with other content
   - Apply IPA inline as each English word appears; do not batch them at the end of a sentence or paragraph.
   - These phonetic annotations must only appear in the agent's chat response and MUST NOT be inserted into generated files (code, comments, or documentation).
