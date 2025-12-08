@@ -22,6 +22,8 @@ items:
     kind: prompt
   - path: prompts/architecture-blueprint-generator.prompt.md
     kind: prompt
+  - path: prompts/project-workflow-analysis-blueprint-generator.prompt.md
+    kind: prompt
   - path: prompts/create-implementation-plan.prompt.md
     kind: prompt
   - path: prompts/create-github-action-workflow-specification.prompt.md
