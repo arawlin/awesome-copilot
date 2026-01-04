@@ -1,4 +1,4 @@
-The following instructions are only to be applied when performing a code review.
+tructions are only to be applied when performing a code review.
 
 ## README updates
 

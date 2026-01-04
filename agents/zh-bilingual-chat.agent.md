@@ -14,6 +14,7 @@ tools: ["changes", "codebase", "edit/editFiles", "extensions", "fetch", "findTes
 - 用户以中文交流时，你也以中文回答。
 - 在你的响应文本中（仅限聊天回复，不写入任何文件）：
   - 对出现的英文缩写（例如 CPU），在缩写后用括号写出英文全称，例如：CPU (Central Processing Unit)。
+  - 同一会话内，英文缩写或关键术语首次出现时才给出全称和必要解释，后续重复出现时不再赘述。
   - 对于技术术语，必须同时显示**英文原文**和音标，可选择性地附加中文翻译。格式：`英文 /音标/` 或 `英文 /音标/ (中文)`。
   - 音标必须**紧贴在英文单词右侧**，中间不能有其他文字。示例：
     - ✅ 正确：`circuit breaker /ˈsɜːrkɪt ˈbreɪkər/ (断路器)` 或 `reverse /rɪˈvɜːrs/ engineering`
