@@ -1,18 +1,15 @@
 # 📦 Collections
 
 Curated collections of related prompts, instructions, and agents organized around specific themes, workflows, or use cases.
-
 ### How to Use Collections
 
 **Browse Collections:**
-
 - ⭐ Featured collections are highlighted and appear at the top of the list
 - Explore themed collections that group related customizations
 - Each collection includes prompts, instructions, and agents for specific workflows
 - Collections make it easy to adopt comprehensive toolkits for particular scenarios
 
 **Install Items:**
-
 - Click install buttons for individual items within collections
 - Or browse to the individual files to copy content manually
 - Collections help you discover related customizations you might have missed
@@ -37,6 +34,7 @@ Curated collections of related prompts, instructions, and agents organized aroun
 | [Java MCP Server Development](../collections/java-mcp-development.md) | Complete toolkit for building Model Context Protocol servers in Java using the official MCP Java SDK with reactive streams and Spring Boot integration. | 3 items | java, mcp, model-context-protocol, server-development, sdk, reactive-streams, spring-boot, reactor |
 | [Kotlin MCP Server Development](../collections/kotlin-mcp-development.md) | Complete toolkit for building Model Context Protocol (MCP) servers in Kotlin using the official io.modelcontextprotocol:kotlin-sdk library. Includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance. | 3 items | kotlin, mcp, model-context-protocol, kotlin-multiplatform, server-development, ktor |
 | [MCP-based M365 Agents](../collections/mcp-m365-copilot.md) | Comprehensive collection for building declarative agents with Model Context Protocol integration for Microsoft 365 Copilot | 5 items | mcp, m365-copilot, declarative-agents, api-plugins, model-context-protocol, adaptive-cards |
+| [Node.js AWS Crypto Backend](../collections/node-aws-crypto-backend.md) | Curated Copilot agents, prompts, and instructions for building a secure, performant Node.js backend on AWS with Docker, Redis, and MongoDB. Includes infrastructure automation, security reviews, performance tuning, and TypeScript MCP expertise. | 15 items | nodejs, aws, docker, redis, mongodb, security, observability, terraform |
 | [OpenAPI to Application - C# .NET](../collections/openapi-to-application-csharp-dotnet.md) | Generate production-ready .NET applications from OpenAPI specifications. Includes ASP.NET Core project scaffolding, controller generation, entity framework integration, and C# best practices. | 3 items | openapi, code-generation, api, csharp, dotnet, aspnet |
 | [OpenAPI to Application - Go](../collections/openapi-to-application-go.md) | Generate production-ready Go applications from OpenAPI specifications. Includes project scaffolding, handler generation, middleware setup, and Go best practices for REST APIs. | 3 items | openapi, code-generation, api, go, golang |
 | [OpenAPI to Application - Java Spring Boot](../collections/openapi-to-application-java-spring-boot.md) | Generate production-ready Spring Boot applications from OpenAPI specifications. Includes project scaffolding, REST controller generation, service layer organization, and Spring Boot best practices. | 3 items | openapi, code-generation, api, java, spring-boot |
